@@ -36,3 +36,6 @@
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/etksgkbig9qq5g0baefe.png)
 
 ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/k87vgn2iwn0z5ghfwhq3.png)
+
+
+link - https://dev.to/devsk1207/katalon-studio-setup-and-api-automation-22k4
